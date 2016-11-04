@@ -1,0 +1,12 @@
+https://web.archive.org/web/20070409024417/http://www.sgi.com/fun/freeware/3d_navigator.html
+
+
+As seen in "Jurassic Park"!
+
+fsn (pronounced fusion) is a file system navigator in cyberspace. It lays out the directories in a hierarchy with each directory represented by a pedestal. The height of the pedestal is proportional to the size of the files in the directory. The directories are connected by wires, on which it is possible to travel. On top of each directory are boxes representing individual files. The height of the box represents the size of the file, while the color represents the age.
+
+Fsn is intended as an investigation in information landscape navigation. Although the file system was chosen as a system to navigate through, similar paradigms could be applied to other trees and graphs, such as call graphs.
+
+Keep in mind that fsn is a prototype and an experiment. It is neither a full featured product nor a replacement for a filesystem manager such as Workspace.
+
+Note: FSN only works on IRIX versions 5.3 and below. 
